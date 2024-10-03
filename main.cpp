@@ -8,7 +8,6 @@ int main(){
 // Ciclo 1
 for (int a = 10; a >= -10; a -= 2){  // La variable se resta por 2 al fin de cada iteracion.
     cout << a << "," ;
-
 }
 
 cout << endl;
